@@ -2,6 +2,7 @@ package com.example.Model;
 
 import java.time.LocalDate;
 
+
 public class LendingRecord {
     private final Book book;
     private final LocalDate borrowDate;
