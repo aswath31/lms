@@ -21,5 +21,4 @@ Features
 
 
 ![LibraryManagementSystem](https://github.com/user-attachments/assets/55c79a8b-266e-4bd4-97e3-2ab2173fb595)
-![LibraryManagementSystem](https://github.com/user-attachments/assets/6c065afa-a40a-4819-8aae-a585b2747ca1)
 
